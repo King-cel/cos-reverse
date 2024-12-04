@@ -1,0 +1,32 @@
+# Updated list
+number = [45, 89, 22, 10, 76]
+
+# Renamed and updated list
+school_list = [
+    'notebook',
+    'pencil',
+    'eraser',
+    'ruler',
+    'bag',
+]
+
+# Printing and reversing the updated list
+print(school_list)
+school_list.reverse()
+print(school_list)
+# Updated list
+number = [45, 89, 22, 10, 76]
+
+# Renamed and updated list
+school_list = [
+    'notebook',
+    'pencil',
+    'eraser',
+    'ruler',
+    'bag',
+]
+
+# Printing and reversing the updated list
+print(school_list)
+school_list.reverse()
+print(school_list)
